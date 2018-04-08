@@ -12,7 +12,7 @@ def oxford_comma(array)
 
   end
 
-if array.length == 3
+if array.length >= 3
  arr = []
  x = []
 
