@@ -14,7 +14,7 @@ def oxford_comma(array)
 
 if array.length == 3
   puts "just a test"
-else
-  puts "no"
+
+
  end
 end
