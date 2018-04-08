@@ -15,7 +15,7 @@ def oxford_comma(array)
 
 if array.length == 3
 
-   return "just a test"
+   return array.join(" ")
 
 
  end
