@@ -30,6 +30,6 @@ if array.length >= 3
 
     arr.join(", ")
 
- end 
+ end
 
  end
