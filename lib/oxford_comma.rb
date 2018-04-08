@@ -11,12 +11,10 @@ def oxford_comma(array)
   array.join(" and ")
 
   end
-  
+
 if array.length == 3
   puts "just a test"
-else 
+else
   puts "no"
- end 
-end
-
+ end
 end
